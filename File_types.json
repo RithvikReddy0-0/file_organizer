@@ -1,0 +1,17 @@
+{
+  "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff", ".svg", ".webp", ".heic", ".ico"],
+  "Documents": [".pdf", ".doc", ".docx", ".txt", ".rtf", ".odt", ".xls", ".xlsx", ".ppt", ".pptx", ".csv", ".md", ".epub", ".mobi"],
+  "Videos": [".mp4", ".mov", ".avi", ".mkv", ".wmv", ".flv", ".webm"],
+  "Audio": [".mp3", ".wav", ".aac", ".ogg", ".flac", ".m4a"],
+  "Archives": [".zip", ".rar", ".tar", ".gz", ".7z", ".bz2"],
+  "Executables": [".exe", ".msi", ".dmg", ".app", ".deb", ".rpm"],
+  "Scripts": [".py", ".js", ".sh", ".bat", ".ps1", ".rb"],
+  "Torrents": [".torrent"],
+  "Fonts": [".ttf", ".otf", ".woff", ".woff2"],
+  "Presentations": [".key"],
+  "Spreadsheets": [".numbers"],
+  "Text_Based_Data": [".json", ".xml", ".yaml", ".yml"],
+  "Code_Misc": [".html", ".css", ".scss", ".java", ".c", ".cpp", ".h", ".hpp", ".cs", ".go"],
+  "System_Files": [".dll", ".sys", ".ini", ".cfg", ".log"],
+  "Others": []
+}
